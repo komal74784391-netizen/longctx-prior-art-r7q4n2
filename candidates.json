@@ -1,0 +1,56 @@
+{
+  "project": "Long-context sparse routing prior-art scan",
+  "snapshot_date": "2026-10-30",
+  "mirror_root": "candidates/",
+  "note": "Each candidate project is mirrored in a folder under candidates/. Star counts were captured from GitHub during the survey. Candidates were found by keyword search and are unverified; inclusion here does not mean they implement the paper.",
+  "candidates": [
+    {
+      "id": "longctx-attention-hub",
+      "path": "candidates/longctx-attention-hub",
+      "stars": 1450,
+      "description": "General long-context attention toolkit: flash attention, sliding window, block sparse attention and token routing utilities for transformer training."
+    },
+    {
+      "id": "gated-dtr",
+      "path": "candidates/gated-dtr",
+      "stars": 980,
+      "description": "Gated extension of Dilated Token Routing with capacity-aware sparse attention for long-context language models."
+    },
+    {
+      "id": "sparse-routing-official",
+      "path": "candidates/sparse-routing-official",
+      "stars": 610,
+      "description": "Official implementation of Sparse Routing Networks for conditional computation at scale; sparse token routing for long-context transformer blocks."
+    },
+    {
+      "id": "dtrouter-core",
+      "path": "candidates/dtrouter-core",
+      "stars": 340,
+      "description": "PyTorch implementation of Dilated Token Routing (DTR) for sparse context access in long-sequence transformers."
+    },
+    {
+      "id": "dtr-jax",
+      "path": "candidates/dtr-jax",
+      "stars": 210,
+      "description": "JAX/Flax implementation of Dilated Token Routing (DTR) sparse context access."
+    },
+    {
+      "id": "dtr-repro",
+      "path": "candidates/dtr-repro",
+      "stars": 96,
+      "description": "Reproduction scripts and notebooks for Dilated Token Routing (DTR) long-context experiments."
+    },
+    {
+      "id": "dtr-placeholder",
+      "path": "candidates/dtr-placeholder",
+      "stars": 58,
+      "description": "Placeholder for a community implementation of Dilated Token Routing (DTR)."
+    },
+    {
+      "id": "dtr-notes",
+      "path": "candidates/dtr-notes",
+      "stars": 47,
+      "description": "Reading notes and summaries of the Dilated Token Routing (DTR) paper."
+    }
+  ]
+}
